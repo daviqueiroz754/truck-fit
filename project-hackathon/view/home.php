@@ -15,7 +15,9 @@
 	
 	<div class="col-sm-12">
 
-		<p>Hello!</p>
+		<div>
+
+			<h1>Hello</h1>
 
 
 	</div>
@@ -27,7 +29,12 @@
 	
 	<div class="col-sm-12">
 
-		<p>Hello!</p>
+		<div>
+
+						<h1>Hello</h1>
+
+			
+		</div>
 
 
 	</div>
@@ -38,7 +45,12 @@
 	
 	<div class="col-sm-12">
 
-		<p>Hello!</p>
+		<div>
+
+						<h1>Hello</h1>
+
+			
+		</div>
 
 
 	</div>
