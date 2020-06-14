@@ -22,14 +22,18 @@
 	
 	<div class="col-sm-12 col-md-12 col-lg-12">
 
-		<div>
+		<a href="general-information-training.php">
 
-			<img class="image-size" src="https://placehold.it/800x600">
+			<h1 class="home-text">Treino de hoje</h1>
 
+			<div>			
+
+				<img class="image-size" src="https://placehold.it/800x600">	
+
+			</div>
+		</a>
 
 	</div>
-
-</div>
 
 </div>
 
@@ -38,13 +42,17 @@
 	
 	<div class="col-sm-12 col-md-12 col-lg-12">
 
-		<div>
+		<a href="">
 
-			<img class="image-size" src="https://placehold.it/800x600">
+			<h1 class="home-text">teste</h1>
 
-			
-		</div>
+			<div>
 
+				<img class="image-size" src="https://placehold.it/800x600">
+
+				
+			</div>
+		</a>
 
 	</div>
 
@@ -63,13 +71,17 @@
 	
 	<div class="col-sm-12 col-md-12 col-lg-12">
 
-		<div>
+		<a href="">
 
-			<img class="image-size" src="https://placehold.it/800x600">
+			<h1 class="home-text">teste</h1>
 
-			
-		</div>
+			<div>
 
+				<img class="image-size" src="https://placehold.it/800x600">
+
+				
+			</div>
+		</a>
 
 	</div>
 
