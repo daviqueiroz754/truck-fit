@@ -22,17 +22,16 @@
 
 <h2>Realize 3 sessões da seguinte sequência o mais rápido que puder</h2>
 
-<div class="row">
+<div style="margin-top: 70px;" class="row">
 	
 	<div class="col-sm-12 col-md-12 col-lg-12">	
 
-		<h1 class="home-text">Treino de hoje</h1>
 
 		<div class="row">			
 
 			<div class="col-sm-8 col-md-8 col-lg-8">			
 
-				<a href="video-workout.php"><img class="image-size" src="https://placehold.it/800x600">	</a>
+				<a href="video-workout.php"><img class="image-size" src="https://cdn.pixabay.com/photo/2014/03/25/16/25/gym-297059_960_720.png">	</a>
 
 			</div>
 
@@ -50,14 +49,13 @@
 	
 	<div class="col-sm-12 col-md-12 col-lg-12">	
 
-		<h1 class="home-text">Treino de hoje</h1>
 
 		<div class="row">			
 
 			<div class="col-sm-8 col-md-8 col-lg-8">			
-
+				<a href="video-workout.php">
 				<img class="image-size" src="https://placehold.it/800x600">	
-
+			</a>
 			</div>
 
 			<div class="col-sm-4 col-md-4 col-lg-4">
@@ -74,14 +72,13 @@
 	
 	<div class="col-sm-12 col-md-12 col-lg-12">	
 
-		<h1 class="home-text">Treino de hoje</h1>
 
 		<div class="row">			
 
 			<div class="col-sm-8 col-md-8 col-lg-8">			
-
+				<a href="video-workout.php">
 				<img class="image-size" src="https://placehold.it/800x600">	
-
+			</a>
 			</div>
 
 			<div class="col-sm-4 col-md-4 col-lg-4">

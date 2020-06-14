@@ -42,10 +42,10 @@
 		<div class="form-login">
 
 			<div class="input-group fluid ">
-  <input class="background-form-login" type="text" id="Username" placeholder="Username or Email"/>
+  <input class="background-form-login" type="text" id="Username" placeholder="Email"/>
 </div>
 <div class="input-group vertical">
-  <input class="background-form-login" type="text" id="Username" placeholder="Enter Password"/>
+  <input class="background-form-login" type="text" id="Username" placeholder="Senha"/>
 </div>
 
 
@@ -62,7 +62,7 @@
 			<div style="	background-color: #A6D02D;" class="solid-border-login ">
 				<div >
 				<span class="icon-mail name-and-icon-login"></span>
-		 <a  style="  text-decoration: none;" href="subscribe1.php"><p class="name-and-icon-login">LOGIN COM E-MAIL</p></a>
+		 <a  style="  text-decoration: none;" href="home.php"><p class="name-and-icon-login">LOGIN COM E-MAIL</p></a>
 		</div>
 	</div>
 
@@ -76,7 +76,7 @@
 
 		<center>
 			<div  >
-		 <p class="create-account-text">Criar conta</p>
+		 <a href="subscribe1.php"><p class="create-account-text">Criar conta</p></a>
 		</div>
 		  </center>
 
@@ -90,8 +90,8 @@
 
 			<div class="solid-border-login email-login-properties">
 				<div >
-				<span class="icon-mail name-and-icon-login"></span>
-		 <a  style="  text-decoration: none;" href="subscribe1.php"><p class="name-and-icon-login">LOGIN COM E-MAIL</p></a>
+				
+		 <a  style="  text-decoration: none;" href="subscribe1.php"><p class="name-and-icon-login">LOGIN COM GOOGLE</p></a>
 		</div>
 	</div>
 

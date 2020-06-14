@@ -28,7 +28,7 @@
 
 			<div>			
 
-				<img class="image-size" src="https://placehold.it/800x600">	
+				<img class="image-size" src="https://cdn.pixabay.com/photo/2015/02/13/22/10/runners-635906_960_720.jpg">	
 
 			</div>
 		</a>
@@ -44,11 +44,11 @@
 
 		<a href="general-information-training.php">
 
-			<h1 class="home-text">teste</h1>
+			<h1 class="home-text">Treinos livres</h1>
 
 			<div>
 
-				<img class="image-size" src="https://placehold.it/800x600">
+				<img class="image-size" src="https://cdn.pixabay.com/photo/2017/05/25/15/08/jogging-2343558_960_720.jpg">
 
 				
 			</div>

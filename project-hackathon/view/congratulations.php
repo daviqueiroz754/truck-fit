@@ -28,7 +28,7 @@
 			<div style="margin-top: 30px; margin-bottom: 30px;" >
 
 			<div style="margin-bottom: 30px;" class="card">
-  <img src="https://placehold.it/800x600" class="section media"/>
+  <img src="https://cdn.pixabay.com/photo/2015/09/13/01/18/emoticon-937602_960_720.png" class="section media"/>
 </div>
 
 

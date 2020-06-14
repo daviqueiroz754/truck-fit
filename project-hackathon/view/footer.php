@@ -4,7 +4,7 @@
 
 			<div class="col-sm-4 col-md-4 col-lg-4">
 
-				<a href="">
+				<a href="home.php">
 
 					<img src="images\exercicio.png">
 
@@ -14,7 +14,7 @@
 
 			<div class="col-sm-4 col-md-4 col-lg-4">
 
-				<a href="">
+				<a href="#">
 
 					<img src="images\restaurante.png">
 
@@ -24,7 +24,7 @@
 
 			<div class="col-sm-4 col-md-4 col-lg-4">
 				
-				<a href="">
+				<a href="#">
 
 					<img src="images\perfil.png">
 
