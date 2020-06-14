@@ -78,7 +78,7 @@
 			<div class="solid-border-login email-login-properties">
 				<div >
 				<span class="icon-mail name-and-icon-login"></span>
-		 <p class="name-and-icon-login">LOGIN COM E-MAIL</p>
+		 <a  style="  text-decoration: none;" href="subscribe1.php"><p class="name-and-icon-login">LOGIN COM E-MAIL</p></a>
 		</div>
 	</div>
 

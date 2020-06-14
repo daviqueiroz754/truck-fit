@@ -36,48 +36,30 @@
 
 </div>
 
-<div class="row">
-	
-	<div class="col-sm-4 col-md-12 col-lg-12">
-
-			<center>
-
-		<div class="terms-of-use-header-text">
-
-			<h1>Termos</h1>
-
-	</div>
-
-			</center>
-
-
-</div>
-
-</div>
-
 
 <div class="row">
 	
-	<div class="col-sm-4 col-md-12 col-lg-12">
+	<div class="col-sm-12 col-md-12 col-lg-12">
+		
+		<div class="input-group fluid">
+  <input class="button-feeling" type="button" value="Me sinto ótimo" />
 
-			<center>
+</div>
 
-		<div class="terms-of-use-content-text" >
+<div class="input-group fluid">
+  <input class="button-feeling" type="button" value="Me sinto ótimo"/>
 
-			<p>Eu concordo com tudo. Eu concordo com tudo.
-			Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.</p>
+</div>
 
-	</div>
+<div class="input-group fluid">
+  <input class="button-feeling" type="button" value="Não me sinto muito bem" />
 
-			</center>
+</div>
 
 
 </div>
 
 </div>
-
-
-
 
 
 
@@ -89,7 +71,7 @@
 
 		<center>
 			<div class="box-next-subscribe">
-		 <p class="subscribe-next-button">AVANÇAR</p>
+		<a href="subscribe1.php"> <p class="subscribe-next-button">AVANÇAR</p></a>
 		</div>
 		  </center>
 

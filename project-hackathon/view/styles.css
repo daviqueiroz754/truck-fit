@@ -1,3 +1,8 @@
+@keyframes example {
+  from {background-color: #f4f3f3;}
+  to {background-color: white;}
+}
+
 .image-size{
 
 width: 80%;
@@ -10,10 +15,18 @@ height: 300px;
 
 	margin: 80px;
 	text-align: center;
+
+	animation-name: example;
+  animation-duration: 1s;
+  
+
 }
+
+
 
 .header-properties{
 	padding-top: 30px;
+
 }
 
 .login-background{
@@ -42,6 +55,44 @@ border-style: solid;
 
 .margin-login-options{
 	margin: 30px;
+}
+
+.label-form-subscribe{
+	text-align: left
+}
+
+.terms-of-use-header-text{
+	margin-bottom: 30px;
+	text-align: left
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.button-feeling{
+	background-color: transparent;
+	border-color: #000;
+	border-style: solid;
+}
+
+.terms-of-use-content-text{
+	
+	text-align: left;
+}
+
+.box-next-subscribe{
+
+	background-color: #A6D02D;
+	padding: 5px;
+	height: 35px;
+	color: #ffffff;
+	font-weight: 700;
+}
+
+.subscribe-background{
+	background-color: white;
+	color: black;
 }
 
 .background-form-login{

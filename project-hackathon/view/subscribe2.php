@@ -36,48 +36,28 @@
 
 </div>
 
-<div class="row">
-	
-	<div class="col-sm-4 col-md-12 col-lg-12">
-
-			<center>
-
-		<div class="terms-of-use-header-text">
-
-			<h1>Termos</h1>
-
-	</div>
-
-			</center>
-
-
-</div>
-
-</div>
-
 
 <div class="row">
 	
-	<div class="col-sm-4 col-md-12 col-lg-12">
-
-			<center>
-
-		<div class="terms-of-use-content-text" >
-
-			<p>Eu concordo com tudo. Eu concordo com tudo.
-			Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.</p>
-
+	<div class="col-sm-12 col-md-12 col-lg-12">
+		<div class="label-form-subscribe">
+		<p>Numero do celular</p>
 	</div>
+		<div class="input-group fluid">
+  <input type="text" id="Username" placeholder="Nome completo"/>
+</div>
 
-			</center>
+<div class="label-form-subscribe">
+		<p>Data de nascimento</p>
+</div>
+<div class="input-group fluid">
+  <input type="text" id="Username" placeholder="01 / 01 / 2020"/>
+</div>
 
 
 </div>
 
 </div>
-
-
-
 
 
 
@@ -89,7 +69,9 @@
 
 		<center>
 			<div class="box-next-subscribe">
-		 <p class="subscribe-next-button">AVANÇAR</p>
+				<a href="subscribe2.php">
+		 <a href="terms-of-use.php"><p class="subscribe-next-button">AVANÇAR</p></a>
+		</a>
 		</div>
 		  </center>
 

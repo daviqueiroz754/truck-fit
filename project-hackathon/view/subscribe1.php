@@ -36,48 +36,29 @@
 
 </div>
 
-<div class="row">
-	
-	<div class="col-sm-4 col-md-12 col-lg-12">
-
-			<center>
-
-		<div class="terms-of-use-header-text">
-
-			<h1>Termos</h1>
-
-	</div>
-
-			</center>
-
-
-</div>
-
-</div>
-
 
 <div class="row">
 	
-	<div class="col-sm-4 col-md-12 col-lg-12">
-
-			<center>
-
-		<div class="terms-of-use-content-text" >
-
-			<p>Eu concordo com tudo. Eu concordo com tudo.
-			Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.</p>
-
+	<div class="col-sm-12 col-md-12 col-lg-12">
+		<div class="label-form-subscribe">
+		<p>Numero do celular</p>
 	</div>
+		<div class="input-group fluid">
+    <input type="text" id="Username" placeholder="+55"/>
+  <input type="text" id="Username" placeholder="00-0000-0000"/>
+</div>
 
-			</center>
+<div class="label-form-subscribe">
+		<p>E-mail</p>
+</div>
+<div class="input-group fluid">
+  <input type="text" id="Username" placeholder="e.g: carlos@example.com"/>
+</div>
 
 
 </div>
 
 </div>
-
-
-
 
 
 
@@ -89,7 +70,7 @@
 
 		<center>
 			<div class="box-next-subscribe">
-		 <p class="subscribe-next-button">AVANÇAR</p>
+		 <a href="subscribe2.php"><p class="subscribe-next-button">AVANÇAR</p></a>
 		</div>
 		  </center>
 
