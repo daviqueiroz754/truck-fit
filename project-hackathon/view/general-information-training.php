@@ -95,7 +95,19 @@
 </div>
 
 
+<div class="row margin-login-options">
 
+	<div class="col-sm-12">
+
+		<center>
+			<div class="box-next-subscribe">
+		 <a href="home.php"><p class="subscribe-next-button">COMEÇAR</p></a>
+		</div>
+		  </center>
+
+	</div>
+
+</div>
 
 
 

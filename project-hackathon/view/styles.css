@@ -64,6 +64,10 @@ border-style: solid;
 	margin: 30px;
 }
 
+.info-training{
+	height: 100px;
+}
+
 .label-form-subscribe{
 	text-align: left
 }
