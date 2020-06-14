@@ -2,36 +2,37 @@
 	
 
 
-			<div class="col-sm-2 col-md-2 col-lg-2">
-				<span class="icon-alert"></span>
+			<div class="col-sm-4 col-md-4 col-lg-4">
+
+				<a href="">
+
+					<img src="images\exercicio.png">
+
+				</a>
 
 			</div>
 
-			<div class="col-sm-2 col-md-2 col-lg-2">
-<span class="icon-bookmark"></span>
+			<div class="col-sm-4 col-md-4 col-lg-4">
+
+				<a href="">
+
+					<img src="images\restaurante.png">
+
+				</a>
 
 			</div>
 
-			<div class="col-sm-2 col-md-2 col-lg-2">
+			<div class="col-sm-4 col-md-4 col-lg-4">
 				
-<span class="icon-calendar"></span>
+				<a href="">
+
+					<img src="images\perfil.png">
+
+				</a>
 
 			</div>
 
-			<div class="col-sm-2 col-md-2 col-lg-2">
-			
-<span class="icon-cart"></span>
-			</div>
 
-			<div class="col-sm-2 col-md-2 col-lg-2">
-				
-<span class="icon-credit"></span>
-			</div>
-
-			<div class="col-sm-2 col-md-2 col-lg-2">
-				
-<span class="icon-credit"></span>
-			</div>
 
 
 
