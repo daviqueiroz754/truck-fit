@@ -15,3 +15,56 @@ height: 300px;
 .header-properties{
 	padding-top: 30px;
 }
+
+.login-background{
+	background-color: #1B1B1B;
+}
+
+.form-login{
+	margin: 30px;
+}
+
+.solid-border-login{
+	border-color: #ffffff;
+border-style: solid;
+}
+
+.name-and-icon-login{
+	display: inline-block;
+}
+
+.email-login-properties{
+	text-align: center;
+	background-color: #3C79E6;
+	font-weight: 600;
+	color: white;
+}
+
+.margin-login-options{
+	margin: 30px;
+}
+
+.background-form-login{
+	background-color: #272727;
+}
+
+.background-form-login::placeholder{
+	color: white;
+	font-weight:300;
+}
+
+.login-image{
+	margin: 30px;
+	max-height: 100px;
+	max-width: 50%;
+}
+
+.other-option-login{
+	color: #A6D02D;
+	font-weight: 700;
+}
+
+.create-account-text{
+	color: #A6D02D;
+	font-weight: 400;
+}
