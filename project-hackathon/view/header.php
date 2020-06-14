@@ -1,5 +1,4 @@
 <header>
-  <a href="#" class="logo">Logo</a>
-  <a href="#" class="button">Home</a>
-  <button>Download</button>
+  <a href="#" class="logo"><img style="max-height: 50%;" src="images/saude-na-estrada-black.png"></a>
+  
 </header>

@@ -44,7 +44,7 @@
 
 		<div class="terms-of-use-header-text">
 
-			<h1>Termos</h1>
+			<h1>Termos de uso</h1>
 
 	</div>
 
@@ -64,8 +64,7 @@
 
 		<div class="terms-of-use-content-text" >
 
-			<p>Eu concordo com tudo. Eu concordo com tudo.
-			Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.Eu concordo com tudo.</p>
+			<p>Eu concordo com os termos de uso.</p>
 
 	</div>
 
@@ -89,7 +88,7 @@
 
 		<center>
 			<div class="box-next-subscribe">
-		 <a href="home.php"><p class="subscribe-next-button">AVANÇAR</p></a>
+		 <a href="home.php"><p class="subscribe-next-button">ACEITAR</p></a>
 		</div>
 		  </center>
 

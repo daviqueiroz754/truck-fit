@@ -9,49 +9,6 @@
 		
 
 
-var button = document.querySelector('#teste');
-var mostrador = document.querySelector('#mostrador');
-
-button.addEventListener('click', function() {
-    new Timer(1, mostrador, function() {
-        alert('O tempo acabou!');
-    }).start();
-});
-
-function Timer(mins, target, cb) {
-    this.counter = mins * 60;
-    this.target = target;
-    this.callback = cb;
-}
-Timer.prototype.pad = function(s) {
-    return (s < 10) ? '0' + s : s;
-}
-Timer.prototype.start = function(s) {
-    this.count();
-}
-Timer.prototype.stop = function(s) {
-    this.count();
-}
-Timer.prototype.done = function(s) {
-    if (this.callback) this.callback();
-}
-Timer.prototype.display = function(s) {
-    this.target.innerHTML = this.pad(s);
-}
-Timer.prototype.count = function(s) {
-    var self = this;
-    self.display.call(self, self.counter);
-    self.counter--;
-    var clock = setInterval(function() {
-        self.display(self.counter);
-        self.counter--;
-        if (self.counter < 0) {
-            clearInterval(clock);
-            self.done.call(self);
-        }
-    }, 1000);
-}
-
 	</script>
 
 <?php include('styles.php');?>
@@ -69,7 +26,7 @@ Timer.prototype.count = function(s) {
 	<?php include('header.php');?>
 </header>
 
-<div class="row">
+<div style="margin-top: 30px; margin-bottom: 60px;" class="row">
 	
 	<div class="col-sm-4 col-md-12 col-lg-12">
 
@@ -77,15 +34,17 @@ Timer.prototype.count = function(s) {
 
 		<div >
 
-			<div class="card">
+			<div style="margin-bottom: 30px;" class="card">
   <img src="https://placehold.it/800x600" class="section media"/>
 </div>
+
+
 
 <center>
 <div>
 
 
-<h2 id="mostrador"></h2>
+<h2>00:30</h2>
 	</div>
 
 </center>
@@ -113,7 +72,20 @@ Timer.prototype.count = function(s) {
 
 <div class="row margin-login-options">
 
-	<div class="col-sm-12">
+	<div class="col-sm-6">
+
+
+		<center>
+			<div >
+
+		 <a onclick="window.history.back();" ><img style="transform: scaleX(-1);
+" src="images/play.png"/></a>
+		</div>
+		  </center>
+
+	</div>
+
+	<div class="col-sm-6">
 
 
 		<center>
@@ -127,7 +99,10 @@ Timer.prototype.count = function(s) {
 
 	
 
+	
+
 </div>
+
 
 
 

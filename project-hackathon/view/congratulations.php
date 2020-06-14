@@ -25,16 +25,16 @@
 
 		<div >
 
-			<div >
+			<div style="margin-top: 30px; margin-bottom: 30px;" >
 
-			<div class="card">
+			<div style="margin-bottom: 30px;" class="card">
   <img src="https://placehold.it/800x600" class="section media"/>
 </div>
 
 
 			
 			<h1>
-				Parabéns você completou o treino de hoje!
+				Parabéns! Você completou o treino de hoje!
 			</h1>
 
 	</div>

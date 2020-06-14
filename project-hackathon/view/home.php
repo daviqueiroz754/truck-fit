@@ -42,7 +42,7 @@
 	
 	<div class="col-sm-12 col-md-12 col-lg-12">
 
-		<a href="">
+		<a href="general-information-training.php">
 
 			<h1 class="home-text">teste</h1>
 
@@ -71,7 +71,7 @@
 	
 	<div class="col-sm-12 col-md-12 col-lg-12">
 
-		<a href="">
+		<a href="general-information-training.php">
 
 			<h1 class="home-text">teste</h1>
 

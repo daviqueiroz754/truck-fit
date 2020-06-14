@@ -92,9 +92,6 @@
 </head>
 
 
-<footer class="sticky">
-<?php include('footer.php')?>
-</footer>
 
 
 </div>
