@@ -89,7 +89,7 @@
 
 		<center>
 			<div class="box-next-subscribe">
-		 <p class="subscribe-next-button">AVANÇAR</p>
+		 <a href="home.php"><p class="subscribe-next-button">AVANÇAR</p></a>
 		</div>
 		  </center>
 

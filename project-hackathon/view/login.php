@@ -13,9 +13,7 @@
 
 <div class="container">
 	
-	<header class="sticky header-properties">
-	<?php include('header.php');?>
-</header>
+	
 
 <div class="row">
 	
@@ -25,7 +23,7 @@
 
 		<div >
 
-			<img class="login-image" src="https://placehold.it/800x600">
+			<img class="login-image" src="images/saude-na-estrada.png">
 
 	</div>
 
@@ -54,6 +52,21 @@
 	</div>
 
 </div>
+
+</div>
+
+<div class="row margin-login-options">
+
+	<div class="col-sm-12">
+
+			<div style="	background-color: #A6D02D;" class="solid-border-login ">
+				<div >
+				<span class="icon-mail name-and-icon-login"></span>
+		 <a  style="  text-decoration: none;" href="subscribe1.php"><p class="name-and-icon-login">LOGIN COM E-MAIL</p></a>
+		</div>
+	</div>
+
+	</div>
 
 </div>
 
@@ -114,9 +127,7 @@
 </head>
 
 
-<footer class="sticky">
-<?php include('footer.php')?>
-</footer>
+
 
 
 </div>

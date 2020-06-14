@@ -32,7 +32,7 @@
 
 			<div class="col-sm-8 col-md-8 col-lg-8">			
 
-				<img class="image-size" src="https://placehold.it/800x600">	
+				<a href="video-workout.php"><img class="image-size" src="https://placehold.it/800x600">	</a>
 
 			</div>
 

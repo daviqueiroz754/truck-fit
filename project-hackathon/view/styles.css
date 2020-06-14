@@ -18,8 +18,11 @@ height: 300px;
 
 	animation-name: example;
   animation-duration: 1s;
-  
 
+}
+
+.login-button{
+	background-color: green;
 }
 
 .home-text{
