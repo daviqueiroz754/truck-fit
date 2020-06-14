@@ -47,24 +47,13 @@
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
 <div class="row margin-login-options">
 
 	<div class="col-sm-12">
 
 		<center>
 			<div class="box-next-subscribe">
-		 <a href="home.php"><p class="subscribe-next-button">INICIO</p></a>
+		 <a href="home.php"><p class="subscribe-next-button">Fim</p></a>
 		</div>
 		  </center>
 
@@ -84,11 +73,6 @@
 </style>
 
 </head>
-
-
-<footer class="sticky">
-<?php include('footer.php')?>
-</footer>
 
 
 </div>

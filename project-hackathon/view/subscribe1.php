@@ -17,24 +17,6 @@
 	<?php include('header.php');?>
 </header>
 
-<div class="row">
-	
-	<div class="col-sm-4 col-md-12 col-lg-12">
-
-			<center>
-
-		<div >
-
-			<img class="login-image" src="https://placehold.it/800x600">
-
-	</div>
-
-			</center>
-
-
-</div>
-
-</div>
 
 
 <div class="row">
@@ -53,6 +35,13 @@
 </div>
 <div class="input-group fluid">
   <input type="text" id="Username" placeholder="e.g: carlos@example.com"/>
+</div>
+
+<div class="label-form-subscribe">
+		<p>Senha</p>
+</div>
+<div class="input-group fluid">
+  <input type="password" id="password" placeholder="******"/>
 </div>
 
 

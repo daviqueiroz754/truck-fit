@@ -22,10 +22,11 @@
 	<div class="col-sm-4 col-md-12 col-lg-12">
 
 			<center>
+				<h4>Selecione uma imagem</h4>
 
 		<div >
 
-			<img class="login-image" src="https://placehold.it/800x600">
+			<img class="login-image" src="https://cdn.pixabay.com/photo/2015/10/12/15/20/man-984433_960_720.jpg">
 
 	</div>
 
@@ -41,10 +42,10 @@
 	
 	<div class="col-sm-12 col-md-12 col-lg-12">
 		<div class="label-form-subscribe">
-		<p>Numero do celular</p>
+		<p>Nome completo</p>
 	</div>
 		<div class="input-group fluid">
-  <input type="text" id="Username" placeholder="Nome completo"/>
+  <input type="text" id="Username" placeholder="João Silva"/>
 </div>
 
 <div class="label-form-subscribe">

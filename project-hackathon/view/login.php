@@ -42,7 +42,7 @@
 		<div class="form-login">
 
 			<div class="input-group fluid ">
-  <input class="background-form-login" type="text" id="Username" placeholder="Email"/>
+  <input class="background-form-login" type="text" id="Username" placeholder="Email ou telefone"/>
 </div>
 <div class="input-group vertical">
   <input class="background-form-login" type="text" id="Username" placeholder="Senha"/>
@@ -62,7 +62,7 @@
 			<div style="	background-color: #A6D02D;" class="solid-border-login ">
 				<div >
 				<span class="icon-mail name-and-icon-login"></span>
-		 <a  style="  text-decoration: none;" href="home.php"><p class="name-and-icon-login">LOGIN COM E-MAIL</p></a>
+		 <a  style="  text-decoration: none;" href="home.php"><p class="name-and-icon-login">LOGIN</p></a>
 		</div>
 	</div>
 

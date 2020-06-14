@@ -23,25 +23,6 @@
 
 			<center>
 
-		<div >
-
-			<img class="login-image" src="https://placehold.it/800x600">
-
-	</div>
-
-			</center>
-
-
-</div>
-
-</div>
-
-<div class="row">
-	
-	<div class="col-sm-4 col-md-12 col-lg-12">
-
-			<center>
-
 		<div class="terms-of-use-header-text">
 
 			<h1>Termos de uso</h1>
@@ -110,9 +91,7 @@
 </head>
 
 
-<footer class="sticky">
-<?php include('footer.php')?>
-</footer>
+
 
 
 </div>

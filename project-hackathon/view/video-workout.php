@@ -35,7 +35,7 @@
 		<div >
 
 			<div style="margin-bottom: 30px;" class="card">
-  <img src="https://placehold.it/800x600" class="section media"/>
+  <img src="https://cdn.pixabay.com/photo/2016/03/09/09/59/men-1245982_960_720.jpg" class="section media"/>
 </div>
 
 

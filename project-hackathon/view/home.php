@@ -73,11 +73,11 @@
 
 		<a href="general-information-training.php">
 
-			<h1 class="home-text">teste</h1>
+			<h1 class="home-text">Refeição</h1>
 
 			<div>
 
-				<img class="image-size" src="https://placehold.it/800x600">
+				<img class="image-size" src="https://cdn.pixabay.com/photo/2019/05/07/09/01/food-4185324_960_720.jpg">
 
 				
 			</div>

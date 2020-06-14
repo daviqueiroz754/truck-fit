@@ -54,7 +54,7 @@
 
 			<div class="col-sm-8 col-md-8 col-lg-8">			
 				<a href="video-workout.php">
-				<img class="image-size" src="https://placehold.it/800x600">	
+				<img class="image-size" src="https://cdn.pixabay.com/photo/2017/01/11/18/35/blur-1972569_960_720.jpg">	
 			</a>
 			</div>
 
@@ -77,7 +77,7 @@
 
 			<div class="col-sm-8 col-md-8 col-lg-8">			
 				<a href="video-workout.php">
-				<img class="image-size" src="https://placehold.it/800x600">	
+				<img class="image-size" src="https://cdn.pixabay.com/photo/2015/08/14/06/42/push-ups-888024_960_720.jpg">	
 			</a>
 			</div>
 
@@ -98,7 +98,7 @@
 
 		<center>
 			<div class="box-next-subscribe">
-		 <a href="home.php"><p class="subscribe-next-button">COMEÇAR</p></a>
+		 <a href="video-workout.php"><p class="subscribe-next-button">COMEÇAR</p></a>
 		</div>
 		  </center>
 
